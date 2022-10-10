@@ -1,0 +1,16 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+
+  .nav-brand {
+  }
+  .nav-links {
+    a {
+      font-size: 20px;
+      margin-left: 10px;
+      margin-right: 10px;
+      text-decoration: none;
+      color: orange;
+    }
+  }
+}
